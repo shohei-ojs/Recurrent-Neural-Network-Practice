@@ -6,7 +6,6 @@ CLASS_NUM   = 8
 NODE_NUM    = 128
 SEQ_MAX_LEN = 40  #歌名サイズ
 INPUT_DIV   = 1   #入力データの次元
-HIDDEN      = 128
 STEP_NUM    = 20000
 BATCH_SIZE  = 64
 NUM_LAYER = 2
